@@ -1,0 +1,13 @@
+# Python cache files (recreated automatically)
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS folder metadata
+.DS_Store
+
+# MediaPipe model (download it with the command in the README)
+hand_landmarker.task
